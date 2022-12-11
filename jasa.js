@@ -2,7 +2,7 @@ console.log
 let nome = "Rodrigo";
 let idade = 18;
 
-let idadex7 = 126;
+let idadex7 = console.log(7 * 18);
 
 let amigos = ["marcio", "jessica", "angelo"];
 let numbers = [1, 2, 3, 4, 5];
